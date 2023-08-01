@@ -74,7 +74,6 @@ public class Solution_6808_D3 {
 		}
 		
 		winBoundary = sum/2;
-		
 	}
 	
 	static void getResult(int depth) {

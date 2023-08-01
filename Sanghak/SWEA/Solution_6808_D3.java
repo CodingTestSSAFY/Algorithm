@@ -53,6 +53,7 @@ public class Solution_6808_D3 {
 		boolean isSame = false;
 		int count = 0;
 		for(int i=1; i<=18; i++) {
+			
 			isSame = false;
 			for(int j=0; j<SIZE; j++) {
 				if(i == kuyoungCard[j]) {
